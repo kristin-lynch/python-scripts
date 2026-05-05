@@ -7,6 +7,7 @@ numpy
 openpyxl
 pandas
 pypdf
+python-nmap
 python-dateutil
 requests
 six
