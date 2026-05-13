@@ -89,6 +89,12 @@ genpass -u -l -n -s      # all character types
 genpass --passphrase 40  # passphrase of at least 40 chars
 ```
 
+**Example output:**
+```
+$ genpass
+zvl2@lY0C7Nt7o;|?S[O)gen)wc{25,A
+```
+
 **Flags:**
 - `-u` / `--include-uppercase`
 - `-l` / `--include-lowercase`
