@@ -32,6 +32,12 @@ pip install -r requirements.txt
 |--------|-------------|
 | `consolidate_jamf_records.py` | Consolidates Jamf MDM records |
 
+### Alfred Workflows
+
+| File | Description |
+|------|-------------|
+| `pwgen.alfredworkflow` | Alfred workflow for generating passwords via genpass |
+
 ### Network
 
 | Script | Description |

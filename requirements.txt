@@ -7,8 +7,8 @@ numpy
 openpyxl
 pandas
 pypdf
-python-nmap
 python-dateutil
+python-nmap
 requests
 six
 soupsieve
