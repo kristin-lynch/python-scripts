@@ -51,6 +51,18 @@ Scan types can be changed in the script:
 
 **Requires:** `nmap` (`brew install nmap`)
 
+#### Sample Scan Results (2026-05-13)
+
+Subnet: `10.100.0.0/24` — 1 host found:
+
+| Host | Port | Service |
+|------|------|---------|
+| 10.100.0.45 (local Mac) | 22/tcp | SSH |
+| 10.100.0.45 (local Mac) | 88/tcp | Kerberos |
+| 10.100.0.45 (local Mac) | 445/tcp | SMB (file sharing) |
+| 10.100.0.45 (local Mac) | 5000/tcp | UPnP |
+| 10.100.0.45 (local Mac) | 5900/tcp | VNC (screen sharing) |
+
 ## Tools
 
 ### genpass
